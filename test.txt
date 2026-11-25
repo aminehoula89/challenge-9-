@@ -1,0 +1,6 @@
+<?php
+
+$nombre = 10;
+$resultat = $nombre * 2;
+
+echo $resultat; 
